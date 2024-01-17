@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/PicQuest/static/css/main.0bd2cada.css",
+    "main.css": "/PicQuest/static/css/main.304b981a.css",
     "main.js": "/PicQuest/static/js/main.ad935a5c.js",
     "static/media/logo.png": "/PicQuest/static/media/logo.e5a1120e36d661338cfa.png",
     "index.html": "/PicQuest/index.html",
-    "main.0bd2cada.css.map": "/PicQuest/static/css/main.0bd2cada.css.map",
+    "main.304b981a.css.map": "/PicQuest/static/css/main.304b981a.css.map",
     "main.ad935a5c.js.map": "/PicQuest/static/js/main.ad935a5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bd2cada.css",
+    "static/css/main.304b981a.css",
     "static/js/main.ad935a5c.js"
   ]
 }
