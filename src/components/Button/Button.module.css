@@ -1,11 +1,19 @@
 .loadButton {
     display: block;
-    width: 150px;
-    height: 20px;
     margin: auto;
-    background-color: #0000ff;
-    color: #ffffff;
-    border: none;
-    border-radius: 3px;
+    width: 150px;
+    height: 40px;
+    border: 2px solid #f2efef;
+    border-radius: 50px;
+    background-color: #4a6e24;
+    color: #f2efef;
+    font-size: 18px;
+    font-weight: 500;
     cursor: pointer;
+}
+
+.loadButton:hover,
+.loadButton:focus {
+    color: #555450fc;
+    background-color: #f07f2d;
 }
