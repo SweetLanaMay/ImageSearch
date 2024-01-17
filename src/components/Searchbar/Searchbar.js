@@ -17,9 +17,9 @@ const Searchbar = ({ onSubmit }) => {
 
   return (
     <header className={css.searchbar}>
-      <a href="/ImageSearch" className={css.logoContainer}>
-        <img src={logoImg} alt="ImageSearch Logo" className={css.logo} />
-        <h1 className={css.title}>ImageSearch</h1>
+      <a href="/PicQuest" className={css.logoContainer}>
+        <img src={logoImg} alt="PicQuest Logo" className={css.logo} />
+        <h1 className={css.title}>PicQuest</h1>
       </a>
 
       <form className={css.form} onSubmit={handleSubmit}>
